@@ -1,6 +1,6 @@
 # Notes
 
-## To start venv from microblob directory
+## To start venv from microblog directory
 
 '''
 $ source venv/bin/activate
